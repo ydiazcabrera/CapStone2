@@ -1,0 +1,14 @@
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\bin\Debug\TaskList.exe.config
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\bin\Debug\TaskList.exe
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\bin\Debug\TaskList.pdb
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\obj\Debug\TaskList.csprojAssemblyReference.cache
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\obj\Debug\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\obj\Debug\TaskList.exe
+C:\Users\16164\Documents\Grand Circus Labs\Week2Capstone\TaskList\TaskList\obj\Debug\TaskList.pdb
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\bin\Debug\TaskList.exe.config
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\bin\Debug\TaskList.exe
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\bin\Debug\TaskList.pdb
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\obj\Debug\TaskList.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\obj\Debug\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\obj\Debug\TaskList.exe
+C:\Users\yendi\source\repos\Capstone2\task-list\TaskList\TaskList\obj\Debug\TaskList.pdb
